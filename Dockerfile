@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM ubuntu:16.04
+FROM ubuntu:14.04
 
 # Install Nginx.
 RUN add-apt-repository -y ppa:nginx/stable && \
