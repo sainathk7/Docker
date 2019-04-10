@@ -19,4 +19,4 @@ RUN apt-get update \
 EXPOSE 80
 CMD ["nginx"]
 
-docker push sainathk7/dockerimage1:tagname
+#docker push sainathk7/dockerimage1:tagname
